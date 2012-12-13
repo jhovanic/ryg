@@ -64,6 +64,9 @@
           <p>Teléfonos:
           	<ul>
           		<li>Colombia: 311 233 70 92</li>
+          		<li>Colombia: 311 872 12 80</li>
+          		<li>Colombia: (+57) 5920058</li>
+          		<li>Colombia: (+57) 5920068</li>
           		<li>Venezuela: 0412 071 98 91</li>
           		<li>Venezuela: 0416 674 25 74</li>
           	</ul>
